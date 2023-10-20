@@ -2,4 +2,4 @@
 
 # LAYOUT
 
-![Tela 1](/foto1.png);
+![Tela 1](foto1.png);
